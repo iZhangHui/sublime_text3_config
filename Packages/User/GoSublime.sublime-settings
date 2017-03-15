@@ -1,0 +1,6 @@
+{
+	"env": {
+		"GOPATH": "$HOME/Dev/Go:$GS_GOPATH",
+		"GOROOT": "/usr/lib/go"
+	}
+}

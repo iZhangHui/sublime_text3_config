@@ -1,0 +1,10 @@
+{
+  // C specific flags. Prepend common_flags for C files.
+  "c_flags" : [
+    "-std=c14"
+  ],
+  // C++ specific flags. Prepend common_flags for C++ files.
+  "cpp_flags" : [
+    "-std=c++14"
+  ]
+}
